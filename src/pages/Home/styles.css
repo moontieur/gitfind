@@ -1,0 +1,85 @@
+.conteudo {
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.background {
+    height: 100vh;
+    position: absolute;
+    right: 75%;
+}
+
+.info {
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: aliceblue;
+}
+
+input {
+    border:1px solid #999999;
+    border-radius: 22px;
+    min-width: 250px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 12px;
+    width: 80%;
+    color: aliceblue;
+}
+
+button {
+    border:1px solid #999999;
+    border-radius: 22px;
+    background: #2D333B;
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 12px;
+    color:#999999;
+}
+
+.perfil {
+    font-family: 'Roboto';
+    display: flex;
+    margin: 40px 0;
+}
+
+
+.perfil h3 {
+    color: #999999;
+    font-size: 24px;
+    margin: 0;
+}
+
+.perfil span {
+    display: block;
+    color: #999999;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.perfil p {
+    display: block;
+    color: #999999;
+    font-size: 14px;
+    margin: 20px 0 0 0;
+}
+
+
+.profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 2px solid #999999;
+    margin-right: 32px;
+}
+
+h4 {
+    font-family: 'Roboto';
+    font-size: 30px;
+    margin: 12px 0;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.List {
+    font-family: 'Roboto';
+    margin: 24px 0;
+}
+
+.List strong {
+    color: #539BF5;
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.List p {
+    color: #999999;
+    font-size: 16px;
+    margin: 24px 0;
+}
